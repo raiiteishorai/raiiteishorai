@@ -10,3 +10,6 @@ width=650&
 height=110&
 lines=Source+of+light+with+ancient+spin;send+forth+the+magic+power+within;Oracles+of+gold+wood+water+fire;earth+cloud+wind+rain+and+electricity;Force+know+my+plight;Release+the+light!+🟢" 
 alt="Syaoran Li Dialogue" />
+
+<br>
+<img src=Untitled7_20260930233956.png>
