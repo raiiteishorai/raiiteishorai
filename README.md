@@ -1,15 +1,3 @@
-<img src="https://demolab.com?
-font=JetBrains+Mono&
-size=19&
-duration=5000&
-pause=1500&
-color=4DF273&
-background=161B22&
-vCenter=true&
-width=650&
-height=110&
-lines=Source+of+light+with+ancient+spin;send+forth+the+magic+power+within;Oracles+of+gold+wood+water+fire;earth+cloud+wind+rain+and+electricity;Force+know+my+plight;Release+the+light!+🟢" 
-alt="Syaoran Li Dialogue" />
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=even+if+I+lose+this+feeling;I'm+sure+ill+just;fall+inlove+with+u+all+over+again)](https://git.io/typing-svg)
 <br>
 <img src=Untitled7_20260930233956.png>
